@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.statusbar.advanced": {
+			"debug": {
+				"visibility": "hidden"
+			},
+			"launch": {
+				"visibility": "hidden"
+			},
+			"build": {
+				"visibility": "hidden"
+			},
+			"buildTarget": {
+				"visibility": "hidden"
+			}
+		},
+		"files.associations": {
+			"i2c.h": "c"
+		}
+	}
+}
